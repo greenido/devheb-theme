@@ -168,6 +168,7 @@ body {
     font-size: 1.7rem;
     line-height: 1.7em;
     background-color: #333f49;
+    direction: rtl;
     /*color: #3A4145;*/
 }
 
@@ -978,7 +979,7 @@ main {
 
 
     h1, h2 {
-		font-size: 30px;	
+		font-size: 30px;
         font-size: 3rem;
         line-height: 1.1em;
         letter-spacing: -1px;
